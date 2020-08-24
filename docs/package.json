@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "A website about me.",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavascriptLearner815/SpeedoThreeSixty.git"
+  },
+  "author": "Dean Summer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavascriptLearner815/SpeedoThreeSixty/issues"
+  },
+  "homepage": "https://github.com/JavascriptLearner815/SpeedoThreeSixty#readme"
+}
